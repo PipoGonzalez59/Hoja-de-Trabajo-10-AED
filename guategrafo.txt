@@ -1,0 +1,7 @@
+Guatemala Antigua 40
+Antigua Escuintla 30
+Escuintla SantaLucia 25
+SantaLucia Jutiapa 50
+Jutiapa Guatemala 70
+Guatemala Mixco 15
+Mixco Antigua 20
